@@ -12,6 +12,7 @@ if ($(window).width() > 992) {
       }   
   });
 } // end if
+
 const $dropdown = $(".dropdown");
 const $dropdownToggle = $(".dropdown-toggle");
 const $dropdownMenu = $(".dropdown-menu");
