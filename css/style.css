@@ -36,6 +36,11 @@ font-size: 19px;
 	font-size: 25px;
 
 }
+
+.donate-cta:hover{
+	color: #fff;
+	background-color: green;
+}
 .about{
 	margin-top: 30px;
 	/*height: 450px;*/
@@ -179,4 +184,75 @@ footer a{
 	height: 100px;
 	width: 150px;
 	margin-left: auto;
+}
+
+.social-icons{
+	margin: auto;
+	/*padding-left: 10px;*/
+
+}
+
+.social-icons  i{
+	font-size:25px;
+	padding-left: 10px;
+}
+
+.team-member {
+	font-family: 'Comfortaa', cursive;
+	border: 1px solid #BBBBBB;
+	margin-top: 30px;
+	padding-bottom: 10px;
+}
+
+.team-heading ,.board-heading, .prog-heading, .story-heading {
+	font-family: 'Comfortaa', cursive;
+	padding-top: 20px;
+}
+
+.bio{
+	margin: auto;
+}
+#quote{
+	color: green;
+	font-size: 30px;
+}
+.program img {
+	height: 200px;
+	width: 100%;
+	margin-top: 20px;
+
+}
+.program {
+	margin-top: 30px;
+	border: 1px solid green;
+}
+.story img{
+	/*margin-right: auto;*/
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin-top: 20px;
+
+}
+
+.img-wrap{
+	/*margin-left: auto;*/
+	width: 100px;
+	/*height: 100px;*/
+	border-radius: 50%;
+	left: 180px;
+}
+.story{
+	margin: auto;
+	width: 80%;
+}
+
+.story i{
+	font-size:25px;
+	padding-left: 10px;
+}
+
+.info{
+	margin-top: 40px;
+	font-family: 'Comfortaa', cursive;
 }
